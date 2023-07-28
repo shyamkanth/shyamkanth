@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shyamkanth
-- 👀 I’m interested in web designing ( Full stack development ), Android / ios app development and cyber security.
-- 🌱 I’m currently learning Android app development, Cyber security essentials and Networking
+- 👀 I’m interested in problem solving, web development, and cyber security.
+- 🌱 I’m currently learning React, Cyber security essentials and Networking
 - 💞️ I’m looking to collaborate on Open source projects.
 - 📫 mail :- shyamkanth0805@gmail.com
 
