@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @shyamkanth
+- 👋 Hi, I’m @shyamkanth, Android Developer at Daffodil Software
+- 👋 Experience in Kotlin and Angular
 - 📓 Educator at [YouTube](https://youtube.com/@DevelopersByte)
-- 👀 I’m interested in problem solving, web development, and cyber security.
-- 🌱 I’m currently learning React, Cyber security essentials and Networking
-- 💞️ I’m looking to collaborate on Open source projects.
 - 📫 mail :- shyamkanth0805@gmail.com
 
 ## Social Media Handles
